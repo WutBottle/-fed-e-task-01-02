@@ -1,0 +1,19 @@
+{
+  "name": "fed-e-task-01-02",
+  "version": "1.0.0",
+  "description": "函数式编程与 JavaScript 性能优化",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WutBottle/fed-e-task-01-02.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WutBottle/fed-e-task-01-02/issues"
+  },
+  "homepage": "https://github.com/WutBottle/fed-e-task-01-02#readme"
+}
